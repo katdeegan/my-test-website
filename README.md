@@ -1,2 +1,2 @@
 # my-test-website
-GitHub Practice Repo
+GitHub Practice Repo for Test Website
